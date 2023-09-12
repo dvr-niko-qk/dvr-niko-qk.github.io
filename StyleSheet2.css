@@ -1,0 +1,36 @@
+﻿body {
+    background-image: url(JH.jpg)
+}
+.pe {
+    color: deepskyblue;
+    font-family: 'Comic Sans MS';
+    font-size: 45px;
+    border: 5px solid black;
+}
+.sardinas {
+    color: gray;
+    font-family: 'Cascadia Code';
+    font-size: 40xp;
+    border: 4px dotted blue;
+}
+.idk {
+    color: red;
+    font-family: Papyrus;
+    font-size: 35xp;
+    
+}
+
+.nose {
+    color: gray;
+    font-family: 'Arial Rounded MT';
+    font-size: 30xp;
+    border: 4px dotted green;
+}
+.xd? {
+    color: orangered;
+    font-family: Cooper;
+    font-size: 25xp;
+  
+}
+
+
